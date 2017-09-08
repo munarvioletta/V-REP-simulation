@@ -1,4 +1,3 @@
--- This is a threaded script, and is just an example!
 enableIk=function(enable)
     if enable then
         simSetObjectMatrix(ikTarget,-1,simGetObjectMatrix(ikTip,-1))
