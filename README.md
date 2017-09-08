@@ -5,6 +5,7 @@ Symulacja procesu paletyzacji w opaciu o silnik fizyczny Bulet 2.78 z ykorzystan
 
 UR5
 
+####LUA implementation 
 ####LUA code 
 
 enableIk=function(enable)
